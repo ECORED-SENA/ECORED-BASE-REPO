@@ -2,13 +2,11 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-  
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
-    
     .row.justify-content-center.align-items-center           
       .col-lg-12
         figure
